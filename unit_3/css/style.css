@@ -2,6 +2,6 @@ body {
 	background-color: #00FF00
 }
 
-h1, p {
-	color: pink
+h1, h3, br {
+	color: #488308
 }
