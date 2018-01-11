@@ -21,7 +21,12 @@ h3 {
 
 p {
 	color: #000000;
-	font-style: italic;
+	font-family: monospace;
+	font-size: 30px;
+}
+
+ul {
+	color: #000000;
 	font-family: monospace;
 	font-size: 30px;
 }
