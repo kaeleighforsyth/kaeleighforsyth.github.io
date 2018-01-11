@@ -11,10 +11,17 @@ h1 {
 	font-size: 100px;
 }
 
-h3, p {
+h3 {
 	color: #50FF00;
 	background-color: #FFFFFF;
 	font-style: italic;
 	font-family: monospace;
 	font-size: 50px;
+}
+
+p {
+	color: #50FF00;
+	font-style: italic;
+	font-family: monospace;
+	font-size: 30px;
 }
