@@ -3,5 +3,6 @@ body {
 }
 
 h1, h3, br {
-	color: #488308
+	color: pink
+	font-family: sans-serif;
 }
