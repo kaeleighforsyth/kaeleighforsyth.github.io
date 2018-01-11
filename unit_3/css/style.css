@@ -3,8 +3,13 @@ body {
 }
 
 h1 {
-	color: pink
-	font-style: helvetica;
-	font-weight: lighter;
-	font-size: 30px
+	color: #0050FF
+	font-style: bold;
+	font-weight: light;
+	font-size: 300px
+}
+h3 {
+	color: #50FF00
+	font-style: italic;
+	font-family: helvetica;
 }
