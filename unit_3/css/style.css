@@ -3,11 +3,10 @@ body {
 }
 
 h1 {
-	color: #0050FF
-	font-style: bold;
+	color: #00000
 	font-weight: light;
 	font-size: 200px
-	font-family: serif;
+	font-family: monospace;
 }
 h3 {
 	color: #50FF00
