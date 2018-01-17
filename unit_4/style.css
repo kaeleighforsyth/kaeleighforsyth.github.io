@@ -1,8 +1,3 @@
-<style>
-@import url('https://fonts.googleapis.com/css?family=Kavivanar');
-</style>
-
-
 body {
 	background-color: #00FFFF
 }
@@ -11,7 +6,7 @@ body {
 h1 {
 	color: #50FF00;
 	background-color: #FFFFFF;
-	font-family: 'Kavivanar';
+	font-family: monospace;
 	font-size: 100px;
 }
 
