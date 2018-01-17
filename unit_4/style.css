@@ -1,0 +1,37 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Kavivanar');
+</style>
+
+
+body {
+	background-color: #00FFFF
+}
+
+
+h1 {
+	color: #50FF00;
+	background-color: #FFFFFF;
+	font-family: 'Kavivanar';
+	font-size: 100px;
+}
+
+h3 {
+	color: #50FF00;
+	background-color: #FFFFFF;
+	font-style: italic;
+	font-family: monospace;
+	font-size: 50px;
+}
+
+p {
+	color: #000000;
+	font-family: monospace;
+	font-size: 30px;
+}
+
+ul {
+	color: #000000;
+	font-family: monospace;
+	font-size: 30px;
+}
+
