@@ -22,7 +22,7 @@ h1 {
 h3 {
 	color: #50FF00;
 	background-color: #FFFFFF;
-	font-family: monospace;
+	font-family: 'Kavivanar', monospace;
 	font-size: 50px;
 }
 
@@ -45,7 +45,7 @@ ul {
 }
 
 hr {
-	margin: 25px 0px;
+	margin: 50px 0px;
 }
 
 /*
