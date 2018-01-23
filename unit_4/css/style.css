@@ -65,7 +65,7 @@ Guest Book / Firebase area
 	list-style-type: none;
 	background: #fff;
 	background-color: #fff;
-	font-size: 20px;
+	font-size: 15px;
 	padding: 0px;
 	margin-top: 0px;
 	min-height: 50px;
@@ -81,14 +81,14 @@ Guest Book / Firebase area
 /* The name input */
 #nameInput {
 	height: 50px;
-	font-size: 30px;
+	font-size: 20px;
 	line-height: 30px;
 	font-family: monospace;
 }
 
 /* The message textarea */
 #messageInput {
-	font-size: 30px;
+	font-size: 20px;
 	line-height: 30px;
 	font-family: monospace;
 }
