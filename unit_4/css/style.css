@@ -8,21 +8,20 @@ body {
 	   of the page to use Lato,
 		 unless otherwise specified
 	*/
-	font-family: 'Kavivanar', monospace;
+	font-family: monospace;
 }
 
 
 h1 {
 	color: #50FF00;
 	background-color: #FFFFFF;
-	font-family: monospace;
+	font-family: 'Kavivanar', monospace;
 	font-size: 100px;
 }
 
 h3 {
 	color: #50FF00;
 	background-color: #FFFFFF;
-	font-style: italic;
 	font-family: monospace;
 	font-size: 50px;
 }
@@ -30,7 +29,6 @@ h3 {
 h4 {
 	color: #50FF00;
 	background-color: #FFFFFF;
-	font-style: italic;
 	font-family: monospace;
 	font-size: 25px;
 	margin-bottom: 0px;
@@ -77,7 +75,7 @@ Guest Book / Firebase area
 
 /* This is their username in the chat box */
 .example-chat-username {
-	margin-right: 10px;
+	margin-right: 20px;
 }
 
 /* The name input */
