@@ -84,7 +84,6 @@ hr {
 }
 
 #left {
-	background-color: #E582A2;
 	border: 1px black solid;
 	padding: 40px;
 	float: left;
@@ -92,7 +91,6 @@ hr {
 }
 
 #right {
-	background-color: #E55B88;
 	border: 1px black solid;
 	padding: 40px;
 	float: right;
