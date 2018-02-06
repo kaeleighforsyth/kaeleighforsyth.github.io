@@ -83,16 +83,12 @@ hr {
 }
 
 #left {
-	border: 1px black solid;
-	padding: 40px;
 	float: left;
 	width: 62%;
 }
 
 #right {
-	border: 1px black solid;
-	padding: 40px;
-	float: right;
+	float:right;
 	width: 30%;
 }
 
