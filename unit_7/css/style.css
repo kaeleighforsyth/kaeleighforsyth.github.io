@@ -79,6 +79,7 @@ ul {
 }
 
 li {
+	display: inline-block;
 }
 
 #navbar {
