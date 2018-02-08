@@ -77,12 +77,14 @@ ul {
 li {
 	display: inline-block;
 	float: left;
+	text-decoration: none;
 }
 
 #navbar {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	overflow: hidden;
 }
 
 hr {
