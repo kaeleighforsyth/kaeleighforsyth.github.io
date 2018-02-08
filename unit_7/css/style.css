@@ -74,6 +74,11 @@ ul {
 
 }
 
+li {
+	display: inline-block;
+	float: left;
+}
+
 #navbar {
 	list-style-type: none;
 	margin: 0;
