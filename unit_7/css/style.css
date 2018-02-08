@@ -79,9 +79,6 @@ ul {
 }
 
 li {
-	display: inline-block;
-	float: left;
-	text-decoration: none;
 }
 
 #navbar {
