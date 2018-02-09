@@ -115,6 +115,11 @@ hr {
 	clear: both;
 	height: 0;
 }
+
+ul#msgList li {
+display: block;
+}
+
 /*
 
 Guest Book / Firebase area
